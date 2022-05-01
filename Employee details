@@ -1,0 +1,10 @@
+Class information
+{
+  Public static void main(string args[]) 
+  {
+    System.Out.Println("name year of joining address");
+    System.Out.Println("Robert 1994 64c-WallStreat");
+    System.Out.Println("Sam 2000 68D-WallStreat");
+    System.Out.Println("John 1999 26B-WallStreat");
+  }
+}
